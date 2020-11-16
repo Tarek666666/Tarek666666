@@ -1,7 +1,4 @@
-[![Header](https://ibb.co/R6hDmV4"><img src="https://i.ibb.co/R6hDmV4/logo.png "Header")](https://some-url.dev/)
-
-
-
+[![Header](https://ibb.co/sRDrF33"><img src="https://i.ibb.co/sRDrF33/logo2.png "Header")](https://some-url.dev/)
 
 
 
