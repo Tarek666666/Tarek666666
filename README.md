@@ -9,6 +9,32 @@
 
 # Hey, Nice to see you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tarek-Aljabr! 
 
+________________________________________________________________________________________________________________________________
+
+
+## 🔧 Technologies & Tools
+
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
+<br/>
+![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a) <br/>
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Tarek666666/Tarek666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
