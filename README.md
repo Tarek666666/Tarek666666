@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/1Qpx922/logo2.png "Header")](https://some-url.dev/)
+[![Header](https://i.ibb.co/1Qpx922/logo2.png "Header")](https://#)
 
 
 
