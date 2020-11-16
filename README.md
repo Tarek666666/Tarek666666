@@ -33,7 +33,7 @@ You can find me on    [![LinkedIn][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://www.linkedin.com/in/tarek-aljabr-61544599/ (LinkedIn icon without padding)
+[1.2]: https://media-exp1.licdn.com/dms/image/C4D35AQHFqa-Nkd_JGg/profile-framedphoto-shrink_200_200/0?e=1605639600&v=beta&t=-_FNNit3Y2Cn2zxSE02KVS5yOPNdQDJzExqahSLmuCQ (LinkedIn icon without padding)
 
 
 <!-- Links to your social media accounts -->
