@@ -47,7 +47,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek666666&exclude_repo=github-readme-stats,Tarek666666.github.io)](https://github.com/Tarek666666/github-readme-stats)
 <hr>
 
 
