@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/1Qpx922/logo2.png "Header" align="center" )](https://github.com/Tarek666666)
+[![Header](https://i.ibb.co/1Qpx922/logo2.png "Header")](https://github.com/Tarek666666)
 
 
 
