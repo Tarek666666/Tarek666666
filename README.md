@@ -44,6 +44,21 @@ You can find me on    [![LinkedIn][1.2]][1]
 
 [1]: https://www.linkedin.com/in/tarek-aljabr-61544599/
 
+<hr>
+
+## GitHub Stats 📊
+
+<!-- profile stats -->
+
+<a href="https://github.com/Tarek666666/Tarek-Aljabr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarek666666&show_icons=true&theme=tokyonight" alt="Tarek' GitHub Stats" />
+</a>
+<br>
+<br>
+<!-- top lang -->
+
+<hr>
+
 
 
 
