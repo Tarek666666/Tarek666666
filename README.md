@@ -1,4 +1,3 @@
-![Header](https://github.com/tarek666666/tarek-Aljabr/blob/main/assets/0.jpeg)
 ### Hi there 👋
 
 <!--
