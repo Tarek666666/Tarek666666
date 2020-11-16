@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently studying at hackyourfuture .
 
-<br>
+<hr>
 
 
 ## 🔧 Technologies & Tools
