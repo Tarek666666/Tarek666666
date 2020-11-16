@@ -11,6 +11,8 @@
 
 <hr>
 
+- 🔭 I’m currently studying at hackyourfuture .
+
 
 ## 🔧 Technologies & Tools
 
