@@ -20,7 +20,11 @@
 
 <hr>
 
-- 🔭 I’m currently studying at hackyourfuture .
+- 🔭 I’m currently studying at hackyourfuture :wink: .
+- 🌱 I’m currently learning NodeJs, React and MySQL.
+- 💬 Ask me about anything related to HTML/CSS/Javascript.
+- 📫 How to reach me: [@Tarek Aljabr](https://www.linkedin.com/in/tarek-aljabr-61544599/)
+- ⚡ Fun fact: I :heart: :dog:s
 
 <hr>
 
