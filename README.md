@@ -1,8 +1,8 @@
-[![Header](https://i.ibb.co/1Qpx922/logo2.png "Header")](https://github.com/Tarek666666)
+
 
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/1Qpx922/logo2.png">
+  <img width="360" height="200" src="https://i.ibb.co/1Qpx922/logo2.png">
 </p>
 
 
