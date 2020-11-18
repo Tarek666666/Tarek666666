@@ -25,6 +25,14 @@
 - 💬 Ask me about anything related to HTML/CSS/Javascript.
 - 📫 How to reach me: [@Tarek Aljabr](https://www.linkedin.com/in/tarek-aljabr-61544599/)
 - ⚡ Fun fact: I :heart: :dog:s
+<hr>
+⏳ Year progress { ██████████████████████████▁▁▁▁ } 88.18 %
+
+---
+
+⏰ Updated on Wed, 18 Nov 2020 18:07:56 GMT
+
+![Progress Bar CI](https://github.com/Tarek666666/Tarek666666/workflows/Progress%20Bar%20CI/badge.svg)
 
 <hr>
 
