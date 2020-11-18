@@ -1,6 +1,6 @@
 [![Header](https://i.ibb.co/1Qpx922/logo2.png "Header")](https://github.com/Tarek666666)
 
-<img src="https://i.ibb.co/dtq7ZRp/background.gif" width="30px">
+
 
 
 
