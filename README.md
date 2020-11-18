@@ -62,15 +62,17 @@
 
 <a href="https://github.com/Tarek666666/Tarek-Aljabr">
   
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarek666666&show_icons=true&theme=tokyonight" alt="Tarek' GitHub Stats" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tarek666666&show_icons=true&theme=tokyonight" alt="Tarek' GitHub Stats" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek666666&exclude_repo=github-readme-stats,Tarek666666.github.io)](https://github.com/Tarek666666/github-readme-stats)
 <br>
 <br>
 <!-- top lang -->
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek666666&exclude_repo=github-readme-stats,Tarek666666.github.io)](https://github.com/Tarek666666/github-readme-stats)
+
 <hr>
 
 
