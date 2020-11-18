@@ -65,9 +65,9 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tarek666666&show_icons=true&theme=tokyonight" alt="Tarek' GitHub Stats" />
 </a>
 
-<p align='right'>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek666666&exclude_repo=github-readme-stats,Tarek666666.github.io)](https://github.com/Tarek666666/github-readme-stats)
-</p>
+
 <br>
 <br>
 <!-- top lang -->
