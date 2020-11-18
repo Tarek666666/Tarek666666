@@ -27,17 +27,7 @@
 ## 🔧 Technologies & Tools
 
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
-<br/>
-![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=reactjs&logoColor=white&color=2bbc8a) <br/>
 
-
-<hr>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
