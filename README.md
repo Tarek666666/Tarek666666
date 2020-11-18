@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://Tarek.li)" title="👋 Hi there! I'm (Tarek(111|nd Li)|https://Tarek.li)"/>](https://Tarek.li/)
+
 
 
 <p align="center">
