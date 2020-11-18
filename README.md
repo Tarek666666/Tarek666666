@@ -62,7 +62,7 @@
 
 <a href="https://github.com/Tarek666666/Tarek-Aljabr">
   
-    <img src="https://github-readme-stats.vercel.app/api?username=Tarek666666&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarek666666&show_icons=true&theme=tokyonight" alt="Tarek' GitHub Stats" />
 </a>
 <br>
 <br>
