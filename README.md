@@ -6,7 +6,7 @@
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="70%" height="320" />
-<img align="left" alt="GIF" src="https://i.ibb.co/1Qpx922/logo2.png" width="30%" height="320" /> <br>
+<img align="left" alt="GIF" src="https://i.ibb.co/1Qpx922/logo2.png" width="30%" height="320" /> 
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-
+<br>
 # Hey, Nice to see you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tarek-Aljabr! 
 
 <hr>
