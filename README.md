@@ -26,7 +26,7 @@ being a developer means , buildup something amazing, keep searching for a proble
 <hr>
 
 <details>
-<summary>My Projects: </summary>
+  <summary> <h2>⚙️My Projects:</h2> </summary>
   
   <details>
 <summary>Project's Name</summary>
@@ -74,7 +74,7 @@ being a developer means , buildup something amazing, keep searching for a proble
 
 <hr>
 
-<h2>👇 Where to find me 🏼 </h2>
+<h2>👇 Where to find me </h2>
 
 <p ><a href="https://github.com/Tarek666666/Tarek666666" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/tarek-aljabr-61544599" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
