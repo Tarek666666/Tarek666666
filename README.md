@@ -16,10 +16,22 @@
 
 <details>
 <summary>My Projects: </summary>
-
- 1. Put an **empty line** after the `<summary>` block.
+  
+  <details>
+<summary>Project's Name</summary>
+ 1. Project name
  2. *link to repo*
- 3.  description
+ 3.  description : 
+</details>
+
+<details>
+<summary>Project2's Name</summary>
+ 1. Project name
+ 2. *link to repo*
+ 3.  description : 
+</details>
+
+
  
 </details>
 
