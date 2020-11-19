@@ -26,7 +26,7 @@ being a developer means , buildup something amazing, keep searching for a proble
 <hr>
 
 <details>
-   <h2>⚙️My Projects:</h2> 
+  <summary> ⚙️My Projects: </summary>
      
   
   <details>
