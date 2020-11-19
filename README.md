@@ -16,8 +16,10 @@
 
 
 
+-	🎓 I was a lawyer in my homeland, working as a lawyer tought me how to keep searching for a better solution, made me obssest with problem solving. that encourged me to follow
+my real passion to be who i really am. it's never to late to chase your dreams. we really getting old, only when we stop to learn and dream.
 
-- 🔭 I’m currently studying at hackyourfuture :wink: .
+- 🔭 I’m currently studying at hackyourfuture :wink:.
 - 🌱 I’m currently learning NodeJs, React and MySQL.
 - 💬 Ask me about anything related to HTML/CSS/Javascript.
 - ⚡ Fun fact: I :heart: :dog:s
