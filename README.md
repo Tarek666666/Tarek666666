@@ -56,7 +56,8 @@ being a developer means , buildup something amazing, keep searching for a proble
 
 ## 🔧 Technologies & Tools
 
-
+<br>
+<br>
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -68,24 +69,17 @@ being a developer means , buildup something amazing, keep searching for a proble
 <code><img height="30" src="https://i.ibb.co/gvzP9ND/16738931111536080149-128.png"></code>
 <code><img height="30" src="https://i.ibb.co/rtDG7Mp/9133229011551942629-128.png"></code>
 <code><img height="30" src="https://i.ibb.co/NZGKhTx/19681752361536207300-128.png"></code>
+<br>
+<br>
 
 <hr>
 
 <h3>Where to find me 👇🏼 </h3>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p align="center"><a href="https://github.com/Tarek666666/Tarek666666" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/tarek-aljabr-61544599" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <hr>
 
 <h3> GitHub Stats 📊 </h3>
