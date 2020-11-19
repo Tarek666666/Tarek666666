@@ -54,7 +54,7 @@ being a developer means , buildup something amazing, keep searching for a proble
 
 
 
-## 🔧 Technologies & Tools
+<h3> Technologies & Tools 🔧🏼 </h3>
 
 <br>
 <br>
