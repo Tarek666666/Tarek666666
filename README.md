@@ -40,15 +40,16 @@
 <code><img height="30" src="https://i.ibb.co/rtDG7Mp/9133229011551942629-128.png"></code>
 <code><img height="30" src="https://i.ibb.co/NZGKhTx/19681752361536207300-128.png"></code>
 
-
+<hr>
 
 <h3>Where to find me</h3>
+<hr>
 <p><a href="https://github.com/Tarek666666/Tarek666666" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/tarek-aljabr-61544599" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 
 
-
+<hr>
 ## GitHub Stats 📊
 
 <!-- profile stats -->
