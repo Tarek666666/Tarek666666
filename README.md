@@ -45,7 +45,7 @@
 <h3>Where to find me 👇🏼 </h3>
 
 
-[margin]<p><a href="https://github.com/Tarek666666/Tarek666666" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/tarek-aljabr-61544599" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p style="margin-left : 50px"><a href="https://github.com/Tarek666666/Tarek666666" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/tarek-aljabr-61544599" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 
 
