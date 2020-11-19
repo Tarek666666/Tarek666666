@@ -14,6 +14,14 @@
 
 <hr>
 
+
+<hr>
+
+- 🔭 I’m currently studying at hackyourfuture :wink: .
+- 🌱 I’m currently learning NodeJs, React and MySQL.
+- 💬 Ask me about anything related to HTML/CSS/Javascript.
+- ⚡ Fun fact: I :heart: :dog:s
+
 <details>
 <summary>My Projects: </summary>
   
@@ -36,12 +44,7 @@
 </details>
 
 
-<hr>
 
-- 🔭 I’m currently studying at hackyourfuture :wink: .
-- 🌱 I’m currently learning NodeJs, React and MySQL.
-- 💬 Ask me about anything related to HTML/CSS/Javascript.
-- ⚡ Fun fact: I :heart: :dog:s
 
 <hr>
 
