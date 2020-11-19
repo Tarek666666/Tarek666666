@@ -81,7 +81,7 @@ being a developer means , buildup something amazing, keep searching for a proble
 
 <hr>
 
-<h3> GitHub Stats 📊🏼 </h3>
+<h3> GitHub Stats 📊 </h3>
 
 <!-- profile stats -->
 <br>
