@@ -11,7 +11,7 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="280" /> 
 <hr>
 
-# Hey, Nice to see you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Tarek-Aljabr! 
+
 
 <img align="center" alt="GIF" src="https://i.ibb.co/0K6KSzM/gifntext-gif.gif" width="100%" height="280" /> 
 
