@@ -14,7 +14,7 @@
 
 <hr>
 
-
+<h2> About Me: ℹ️ </h2>
 
 -	🎓  I was a lawyer in my homeland. working as a lawyer tought me how to keep searching for a better solution, made me obsessed with problem solving. this experience encourged me to follow
 my real passion to be who i really am. it's never to late to chase your dreams. we really getting old, only when we stop to learn and dream.
@@ -54,7 +54,7 @@ being a developer means , buildup something amazing, keep searching for a proble
 
 
 
-<h3> Technologies & Tools 🔧🏼 </h3>
+<h2> Technologies & Tools 🔧 </h2>
 
 <br>
 <br>
@@ -74,13 +74,13 @@ being a developer means , buildup something amazing, keep searching for a proble
 
 <hr>
 
-<h3>Where to find me 👇🏼 </h3>
+<h2>Where to find me 👇🏼 </h2>
 
 <p ><a href="https://github.com/Tarek666666/Tarek666666" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/tarek-aljabr-61544599" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 <hr>
 
-<h3> GitHub Stats 📊 </h3>
+<h2> GitHub Stats 📊 </h2>
 
 <!-- profile stats -->
 <br>
