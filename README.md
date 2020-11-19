@@ -12,6 +12,17 @@
 
 <img align="center" alt="GIF" src="https://i.ibb.co/XxSLFrY/gifntext-gif-3.gif" width="100%" height="380" /> 
 
+<hr>
+
+<details>
+<summary>My Projects: </summary>
+
+ 1. Put an **empty line** after the `<summary>` block.
+ 2. *link to repo*
+ 3.  description
+ 
+</details>
+
 
 <hr>
 
