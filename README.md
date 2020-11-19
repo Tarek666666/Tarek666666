@@ -13,8 +13,7 @@
 
 
 
-<img align="center" alt="GIF" src="https://i.ibb.co/fDKZTBT/gifntext-gif-2.gif" width="100%" height="380" /> 
-
+<img align="center" alt="GIF" src="https://i.ibb.co/XxSLFrY/gifntext-gif-3.gif" width="100%" height="380" /> 
 
 
 
