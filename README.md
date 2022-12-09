@@ -17,8 +17,8 @@
 <h2>ℹ️ About Me:  </h2>
 
 -	🎓  I was a lawyer in my homeland. working as a lawyer tought me how to keep searching for a better solution, made me obsessed with problem solving.
-                       This experience encourged me to follow my real passion and to be who i really am. 
-                       It's never too late to chase your dreams, we are really getting old, only when we stop to learn and dream.
+                       This experience encourged me to follow my real passion to be who i really am. 
+                       It's never too late to chase your dreams, we are getting old, only when we stop to learn and dream.
                        Being a developer means , building up magical software, keep searching for a problem or a bug then you can enjoy finding the solution.
 - 🔭 I’m currently studying at hackyourfuture :wink:.
 - 💬 Ask me about anything related to HTML/CSS/Javascript.
