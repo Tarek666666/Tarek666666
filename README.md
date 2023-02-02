@@ -10,7 +10,7 @@
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="280" /> 
 
-<img align="center" alt="GIF" src="https://i.ibb.co/XxSLFrY/gifntext-gif-3.gif" width="100%" height="380" /> 
+
 
 <hr>
 
