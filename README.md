@@ -15,55 +15,15 @@ Full-stack web developer with strong analytical and problem-solving abilities<br
 
 <hr>
 
-# Projects:
-<div align="center">
+# Projects
 
-  <h2 style="color:#5F939A;font-family:'Palatino Linotype', serif;text-shadow:1px 1px #aaa;">Projects</h2>
-
-</div>
-
-<table style="width:100%;border-collapse:collapse;margin:auto;">
-  <thead>
-    <tr style="background-color:#5F939A;color:#fff;">
-      <th style="padding:15px 10px;">Project Name</th>
-      <th style="padding:15px 10px;">Description</th>
-      <th style="padding:15px 10px;">Technologies Used</th>
-      <th style="padding:15px 10px;">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#F2F2F2;">
-      <td style="padding:10px;">Project 1</td>
-      <td style="padding:10px;">A web application for managing tasks and to-do lists</td>
-      <td style="padding:10px;">Node.js, React, MongoDB</td>
-      <td style="padding:10px;"><a href="https://github.com/your-username/project1" target="_blank">Link</a></td>
-    </tr>
-    <tr style="background-color:#D9D9D9;">
-      <td style="padding:10px;">Project 2</td>
-      <td style="padding:10px;">An e-commerce website for selling handmade crafts</td>
-      <td style="padding:10px;">Ruby on Rails, PostgreSQL, React</td>
-      <td style="padding:10px;"><a href="https://github.com/your-username/project2" target="_blank">Link</a></td>
-    </tr>
-    <tr style="background-color:#F2F2F2;">
-      <td style="padding:10px;">Project 3</td>
-      <td style="padding:10px;">A machine learning model for predicting stock prices</td>
-      <td style="padding:10px;">Python, TensorFlow, Pandas</td>
-      <td style="padding:10px;"><a href="https://github.com/your-username/project3" target="_blank">Link</a></td>
-    </tr>
-    <tr style="background-color:#D9D9D9;">
-      <td style="padding:10px;">Project 4</td>
-      <td style="padding:10px;">A mobile app for tracking daily exercise and fitness goals</td>
-      <td style="padding:10px;">Swift, Firebase</td>
-      <td style="padding:10px;"><a href="https://github.com/your-username/project4" target="_blank">Link</a></td>
-    </tr>
-    <tr style="background-color:#F2F2F2;">
-      <td style="padding:10px;">Project 5</td>
-      <td style="padding:10px;">A chatbot for customer support in a retail setting</td>
-      <td style="padding:10px;">Python, Dialogflow</td>
-      <td style="padding:10px;"><a href="https://github.com/your-username/project5" target="_blank">Link</a></td>
-    </tr>
-  </tbody>
-</table>
+| Project Name | Description | Technologies Used | Link |
+| --- | --- | --- | --- |
+| Project 1 | A web application for managing tasks and to-do lists | Node.js, React, MongoDB | [Link](https://github.com/your-username/project1) |
+| Project 2 | An e-commerce website for selling handmade crafts | Ruby on Rails, PostgreSQL, React | [Link](https://github.com/your-username/project2) |
+| Project 3 | A machine learning model for predicting stock prices | Python, TensorFlow, Pandas | [Link](https://github.com/your-username/project3) |
+| Project 4 | A mobile app for tracking daily exercise and fitness goals | Swift, Firebase | [Link](https://github.com/your-username/project4) |
+| Project 5 | A chatbot for customer support in a retail setting | Python, Dialogflow | [Link](https://github.com/your-username/project5) |
 
 <hr>
 
