@@ -15,7 +15,12 @@ Full-stack web developer with strong analytical and problem-solving abilities<br
 
 <hr>
 
-# Projects
+ <h2 style="color:#5F939A;font-family:'Palatino Linotype', serif;text-shadow:1px 1px #aaa;">
+    <svg class="octicon octicon-repo" viewBox="0 0 16 16" width="24" height="24" aria-hidden="true">
+      <path d="M0 2.75C0 1.784.784 1 1.75 1h2.5c.966 0 1.75.784 1.75 1.75v1.5H1.75C.784 4.25 0 3.466 0 2.5v.25zm0 2.5v6c0 .966.784 1.75 1.75 1.75h12.5c.966 0 1.75-.784 1.75-1.75v-6H0zm2.5-.75h11v6c0 .414-.336.75-.75.75H3c-.414 0-.75-.336-.75-.75v-6zm2.75 2c.414 0 .75.336.75.75s-.336.75-.75.75-.75-.336-.75-.75.336-.75.75-.75zm4 0c.414 0 .75.336.75.75s-.336.75-.75.75-.75-.336-.75-.75.336-.75.75-.75z"/>
+    </svg>
+    Projects
+  </h2>
 
 | Project Name | Description | Technologies Used | Link |
 | --- | --- | --- | --- |
