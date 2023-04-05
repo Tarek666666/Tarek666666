@@ -16,6 +16,12 @@ Full-stack web developer with strong analytical and problem-solving abilities<br
 <hr>
 
 ### Projects:
+<div align="center">
+
+  ## Projects
+
+</div>
+
 | Project Name | Description | Technologies Used | Link |
 | --- | --- | --- | --- |
 | Project 1 | A web application for managing tasks and to-do lists | Node.js, React, MongoDB | [Link](https://github.com/your-username/project1) |
