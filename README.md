@@ -15,7 +15,7 @@ Full-stack web developer with strong analytical and problem-solving abilities<br
 
 <hr>
 
-#Projects:
+# 😎 Projects:
 
 | Project Name | Description | Technologies Used | Link |
 | --- | --- | --- | --- |
