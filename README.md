@@ -19,7 +19,7 @@ Full-stack web developer with strong analytical and problem-solving abilities<br
 
 | Project Name | Description | Technologies Used | Link |
 | --- | --- | --- | --- |
-| Project 1 | A web application for managing tasks and to-do lists | Node.js, React, MongoDB | [Link](https://github.com/your-username/project1) |
+| Project 1 | A web application for managing tasks and to-do lists   lists lists lists lists| Node.js, React, MongoDB | [Link](https://github.com/your-username/project1) |
 | Project 2 | An e-commerce website for selling handmade crafts | Ruby on Rails, PostgreSQL, React | [Link](https://github.com/your-username/project2) |
 | Project 3 | A machine learning model for predicting stock prices | Python, TensorFlow, Pandas | [Link](https://github.com/your-username/project3) |
 | Project 4 | A mobile app for tracking daily exercise and fitness goals | Swift, Firebase | [Link](https://github.com/your-username/project4) |
